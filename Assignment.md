@@ -1,68 +1,77 @@
-# Personal Portfolio Documentation
+Personal Portfolio Documentation
 
-## 1. Student Details
+1. Student Details
+	•	Full Name: Keya Ochieng’
+	•	Admission Number: 145040
+	•	GitHub Username: keyaochieng
+	•	Email: keya.ochieng@strathmore.edu
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+2. Deployed Portfolio Link
+	•	GitHub Pages URL:
+https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.md
 
-## 2. Deployed Portfolio Link
+3. Learnings from the Git Crash Program
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
-
-## 3. Learnings from the Git Crash Program
-
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
+Write about 4 things you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
 For each one, mention:
 
-What you thought it would be like **(Expectation 👀)**
-
-What you actually learned **(Reality 😅)**
-
+What you thought it would be like (Expectation 👀)
+What you actually learned (Reality 😅)
 And how it helped with your personal portfolio project 💻
 
-make it honest—and if it surprised you, even better!
+🧠 What I Thought I’d Learn vs What I Actually Learned
 
-Example format:
+1. Concept: Branching
+Expectation 👀: I assumed branching was mostly meant for large teams working on complex software projects.
+Reality 😅: I realized branching is also extremely useful for solo projects. It helped me safely test changes without interfering with the main code.
+Impact 💡: I used feature branches to develop new sections like the contact form, then merged them cleanly into the main branch after testing.
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+2. Concept: Rebasing
+Expectation 👀: I thought rebasing was just a fancy alternative to merging that I wouldn’t need to bother with.
+Reality 😅: I learned that rebasing can make my commit history cleaner and more readable by applying my changes on top of the latest version of the main branch.
+Impact 💡: I used rebasing to update my feature branches with the latest changes from main, especially when switching between different features during development.
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+3. Concept: Commits
+Expectation 👀: I expected committing to just be a way to save my work, without much structure.
+Reality 😅: I discovered that clear, focused commits are essential for tracking changes and troubleshooting. Writing good commit messages also makes collaboration easier.
+Impact 💡: I made sure each commit reflected one task (like “add about section”) so I could go back and understand my progress clearly.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+4. Concept: Merge Conflicts
+Expectation 👀: I didn’t expect to face merge conflicts since I was working alone.
+Reality 😅: I encountered a few merge conflicts when switching branches and rebasing. It was confusing at first but became easier as I understood how Git works behind the scenes.
+Impact 💡: Learning how to resolve conflicts helped me stay calm and confident when things didn’t go smoothly—and I avoided losing work.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+4. Screenshots of Key GitHub Features
 
-## 4. Screenshots of Key GitHub Features
+A. Milestones and Issues
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
+<img width="1470" height="956" alt="milestones screenshot" src="https://github.com/user-attachments/assets/e37ed1ba-dbda-40b5-9726-abf595b2b90e" />
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
+Caption: This screenshot shows a milestone I created for finishing the landing page and the issues linked to it.
 
-```markdown
-![Caption](path/to/your/image.png)
-```
+B. Project Board
 
-### A. Milestones and Issues
+<img width="1470" height="956" alt="project board screenshot" src="https://github.com/user-attachments/assets/14d9c8c1-8353-4f53-83c1-e3151b76b21a" />
 
-- Screenshot showing your milestone(s) and the issues linked to it.
 
-### B. Project Board
+Caption: This board helped me stay organized by moving tasks from “To Do” to “In Progress” to “Done”.
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+C. Branching
+<img width="1470" height="956" alt="branching screenshot" src="https://github.com/user-attachments/assets/d2ffce43-26d9-45cc-acdb-daba45ca9e98" />
 
-### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
 
-### D. Pull Requests
+Caption: This shows the different branches I used to develop portfolio features separately.
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+D. Pull Requests
+<img width="1470" height="956" alt="pull request" src="https://github.com/user-attachments/assets/10b08589-9192-488e-8f22-b1a94f828861" />
 
-### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+
+Caption: A pull request I created when adding the responsive navbar, showing the changes before merging to main.
+
+E. Merge Conflict Resolution
+
+
+Caption: This screenshot shows how I resolved a merge conflict when rebasing the About page branch onto the updated main.
+
