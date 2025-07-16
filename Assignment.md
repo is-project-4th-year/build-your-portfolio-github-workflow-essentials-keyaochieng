@@ -1,16 +1,16 @@
 Personal Portfolio Documentation
 
 1. Student Details
-	•	Full Name: Keya Ochieng’
-	•	Admission Number: 145040
-	•	GitHub Username: keyaochieng
-	•	Email: keya.ochieng@strathmore.edu
+Full Name: Keya Ochieng’
+Admission Number: 145040
+GitHub Username: keyaochieng
+Email: keya.ochieng@strathmore.edu
 
-2. Deployed Portfolio Link
+3. Deployed Portfolio Link
 	•	GitHub Pages URL:
 https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.md
 
-3. Learnings from the Git Crash Program
+4. Learnings from the Git Crash Program
 
 Write about 4 things you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
 For each one, mention:
@@ -71,7 +71,4 @@ D. Pull Requests
 Caption: A pull request I created when adding the responsive navbar, showing the changes before merging to main.
 
 E. Merge Conflict Resolution
-
-
-Caption: This screenshot shows how I resolved a merge conflict when rebasing the About page branch onto the updated main.
 
