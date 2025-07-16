@@ -10,7 +10,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  [https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.md](https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.md)
+[  [https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.md](https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-keyaochieng/blob/main/Assignment.](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-keyaochieng/)
 
 ## 3. Learnings from the Git Crash Program
 
