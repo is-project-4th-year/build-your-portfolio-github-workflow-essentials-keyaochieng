@@ -74,13 +74,7 @@ For each one, mention:
 **Caption**: A pull request I created when adding the responsive navbar, showing the changes before merging to main.
 
 ### E. Merge Conflict Resolution
-
-<img width="1470" height="956" alt="merge conflict" src="https://github.com/user-attachments/assets/placeholder" />
+<img width="752" height="183" alt="resolved merge conflict" src="https://github.com/user-attachments/assets/83b89557-a957-407a-967d-1afb39d49a4b" />
 
 **Caption**: This screenshot shows how I resolved a merge conflict after rebasing and adjusting conflicting lines before completing the merge.
 
----
-
-> _Make sure to replace the last image link (if it's still a placeholder) with your actual merge conflict screenshot._
-
-Let me know if you'd like this as a downloadable `.md` file or want it adapted for a PDF version.
